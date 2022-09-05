@@ -1,0 +1,17 @@
+.ul-header {
+    font-size: .7em !important;
+}
+  
+.li-header {    
+    padding-left: 20px;
+    margin-right: 20px;
+}
+.logo{  
+    font-size: 1.3em;
+}
+.color-logo {
+    color: rgb(59,187,121);  
+}
+.color-text {
+    color: rgb(18, 19, 18);
+}
